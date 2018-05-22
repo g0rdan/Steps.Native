@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  HistoryController.swift
 //  Steps.Native.iOS
 //
 //  Created by Denis Gordin on 21/05/2018.
@@ -8,20 +8,18 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
-    @IBOutlet weak var HistoryBtn: UIBarButtonItem!
+class HistoryController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
+    
+    
 }
 
