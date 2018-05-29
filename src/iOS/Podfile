@@ -1,0 +1,5 @@
+platform :ios, '9.3'
+
+target 'Steps.Native.iOS' do
+  pod 'MKRingProgressView'
+end
